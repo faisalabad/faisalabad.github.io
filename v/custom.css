@@ -59,3 +59,22 @@ color:black;
     /* custom css */
     .hidesource
     {display:none !important;}
+
+
+   .mdi-check-circle:not(.mdi-star-circle):not(.va-varified)      
+ {
+     display:none !important;
+ 
+  }
+  
+   ul.skill .time-skill, ul.skill li.faisalabad-skill, ul.skill .Pakistan-skill, ul.skill .mdi-whatsapp-skill, ul.skill .star-skill, ul.skill .featured-skill, ul.skill .pk-skill {display:none;}
+  
+  .popover-body {padding:0px !important;
+      
+      margin:0px 8px 0px 0px !important;
+      
+  }
+  
+  
+    ul.location li:not(.faisalabad-skill) {
+        display: none !important;}
