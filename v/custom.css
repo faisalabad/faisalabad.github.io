@@ -81,10 +81,3 @@ color:black;
       
   }
   
-    /* ADD New Location */ 
-
-    ul.location 
-    li:not(.faisalabad-skill):not(.lahore-skill)
-    
-    {
-        display: none !important;}
