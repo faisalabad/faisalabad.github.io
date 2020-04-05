@@ -1,1 +1,45 @@
  .us-flag {visibility: hidden !important;}.loc-us {visibility: visible !important;}.bg-warning h4, .bg-warning {color: #000000 !important;}.bg-warning small {color: maroon !important;}h4 a {color:black;}.rounded-circle {border:1px solid black;}
+  li  {list-style-type: none !important;}
+ 
+.read_more_container
+{display:none !important;}
+
+ 
+
+.Base-hb  
+{display: none !important;}
+
+  .flag-icon:not(.flag-icon-pk):not(.flag-icon-us):not(.flag-icon-gb)  
+ {
+     display:none !important;
+ 
+  }
+
+   .mdi-check-circle:not(.va-varified)   
+ {
+     display:none !important;
+ 
+  }
+ 
+ 
+  ul.includes li:not(.time-hbshow) {
+        display: none !important;}
+        
+  /*   ul.includes li:not(.time-hb) {
+        display: none !important;}
+    */
+    
+     ul.available li:not(.time-hbshow) {
+        display: none !important;
+        height: 15px !important;
+         
+         
+     }
+    
+    
+ 
+    
+    .tags {list-style-type: none; margin:0px; padding:0px;}
+
+.card 
+{margin-bottom:25px !important;}
