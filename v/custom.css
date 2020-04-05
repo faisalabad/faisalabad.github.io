@@ -43,3 +43,19 @@
 
 .card 
 {margin-bottom:25px !important;}
+
+    
+    h4 a {
+color:black;
+
+    }
+
+    .rounded-circle
+    {
+  border:1px solid #d3d3d3;  
+
+    }
+
+    /* custom css */
+    .hidesource
+    {display:none !important;}
