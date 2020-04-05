@@ -82,7 +82,7 @@ color:black;
   }
       /* ADD New Location */ 
 
-    ul.location li:not(.faisalabad-skill):not(.karachi-skill):not(.multan-skill)
+    ul.location li:not(.faisalabad-skill):not(.Lahore-skill):not(.multan-skill)
     
     {
         display: none !important;}
