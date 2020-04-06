@@ -33,7 +33,7 @@
     */
       /* Includes New Tags To Available */ 
 
-     ul.available li:not(.time-hire):not(.On-Site-hire):not(.York-hire):not(..Contract-skill) {
+     ul.available li:not(.time-hire):not(.On-Site-hire):not(.York-hire):not(.Contract-skill) {
         display: none !important;
         height: 15px !important;
          
