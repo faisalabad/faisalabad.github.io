@@ -89,7 +89,7 @@ ul.skill .mdi-facebook-skill, ul.skill .On-Site, ul.skill .mdi-web, ul.skill .us
   }
       /* ADD New Location */ 
 
-    ul.location li:not(.faisalabad-location):not(.Lahore-location):not(.multan-location):not(.Jeddah-location)  
+    ul.location li:not(.faisalabad-location):not(.Lahore-location):not(.multan-location):not(.Jeddah-location):not(.York-location)   
     
     {
         display: none !important;}
