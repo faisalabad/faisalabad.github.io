@@ -28,14 +28,16 @@
   /*   ul.includes li:not(.time-hb) {
         display: none !important;}
     */
-    
-     ul.available li:not(.time-hbshow):not(.On-Site-skill) {
+      /* Includes New Tags To Available */ 
+
+     ul.available li:not(.time-hire):not(.On-Site-hire) {
         display: none !important;
         height: 15px !important;
          
          
      }
-    
+      /* Includes New Tags To Available */ 
+
     
  
     
