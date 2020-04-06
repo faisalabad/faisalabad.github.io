@@ -29,7 +29,7 @@
         display: none !important;}
     */
     
-     ul.available li:not(.time-hbshow) {
+     ul.available li:not(.time-hbshow):not(.On-Site-skill) {
         display: none !important;
         height: 15px !important;
          
