@@ -75,7 +75,7 @@ color:black;
   /* Exclude New Tags From Skill(s) */ 
 
 
-   ul.skill .time-skill, ul.skill li.faisalabad-skill, ul.skill .Pakistan-skill, ul.skill .mdi-whatsapp-skill, ul.skill .star-skill, ul.skill .featured-skill, ul.skill .pk-skill,
+   ul.skill .Time-skill, ul.skill li.faisalabad-skill, ul.skill .Pakistan-skill, ul.skill .mdi-whatsapp-skill, ul.skill .star-skill, ul.skill .featured-skill, ul.skill .pk-skill,
 ul.skill .mdi-facebook-skill, ul.skill .On-Site, ul.skill .mdi-web, ul.skill .us-skill,ul.skill .York-skill, ul.skill .Jeddah-skill, ul.skill .sa-skill, ul.skill .Contract-skill
 {display:none !important;}
   
