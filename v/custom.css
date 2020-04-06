@@ -84,7 +84,7 @@ ul.skill .mdi-facebook-skill
   }
       /* ADD New Location */ 
 
-    ul.location li:not(.faisalabad-skill):not(.Lahore-skill):not(.multan-skill)
+    ul.location li:not(.faisalabad-skill):not(.Lahore-skill):not(.multan-skill):not(.On-Site-skill)
     
     {
         display: none !important;}
