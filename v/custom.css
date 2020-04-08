@@ -1,96 +1,390 @@
-.us-flag {visibility: hidden !important;}.loc-us {visibility: visible !important;}.bg-warning h4, .bg-warning {color: #000000 !important;}.bg-warning small {color: maroon !important;}h4 a {color:black;}.rounded-circle {border:1px solid black;}
-  li  {list-style-type: none !important;}
- 
-.read_more_container
-{display:none !important;}
+.us-flag {
+    visibility: hidden !important;
+}
 
- 
+.loc-us {
+    visibility: visible !important;
+}
 
-.Base-hb  
+.bg-warning h4,
+.bg-warning {
+    color: #000000 !important;
+}
+
+.bg-warning small {
+    color: maroon !important;
+}
+
+h4 a {
+    color: black;
+}
+
+.rounded-circle {
+    border: 1px solid black;
+}
+
+li {
+    list-style-type: none !important;
+}
+
+.read_more_container {
+    display: none !important;
+}
+
+iframe {
+    height: 100vh !important;
+}
+
+.prosum {
+    min-height: 125px !important;
+}
+
+.Base-hb {
+    display: none !important;
+}
+
+
+/* Includes New Flag */
+
+.flag-icon:not(.flag-icon-ad):not(.flag-icon-ae):not(.flag-icon-af):not(.flag-icon-ag):not(.flag-icon-ai):not(.flag-icon-al):not(.flag-icon-am):not(.flag-icon-ao):not(.flag-icon-aq):not(.flag-icon-ar):not(.flag-icon-as):not(.flag-icon-at):not(.flag-icon-au):not(.flag-icon-aw):not(.flag-icon-ax):not(.flag-icon-az):not(.flag-icon-ba):not(.flag-icon-bb):not(.flag-icon-bd):not(.flag-icon-be):not(.flag-icon-bf):not(.flag-icon-bg):not(.flag-icon-bh):not(.flag-icon-bi):not(.flag-icon-bj):not(.flag-icon-bl):not(.flag-icon-bm):not(.flag-icon-bn):not(.flag-icon-bo):not(.flag-icon-bq):not(.flag-icon-br):not(.flag-icon-bs):not(.flag-icon-bt):not(.flag-icon-bv):not(.flag-icon-bw):not(.flag-icon-by):not(.flag-icon-bz):not(.flag-icon-ca):not(.flag-icon-cc):not(.flag-icon-cd):not(.flag-icon-cf):not(.flag-icon-cg):not(.flag-icon-ch):not(.flag-icon-ci):not(.flag-icon-ck):not(.flag-icon-cl):not(.flag-icon-cm):not(.flag-icon-cn):not(.flag-icon-co):not(.flag-icon-cr):not(.flag-icon-cu):not(.flag-icon-cv):not(.flag-icon-cw):not(.flag-icon-cx):not(.flag-icon-cy):not(.flag-icon-cz):not(.flag-icon-de):not(.flag-icon-dj):not(.flag-icon-dk):not(.flag-icon-dm):not(.flag-icon-do):not(.flag-icon-dz):not(.flag-icon-ec):not(.flag-icon-ee):not(.flag-icon-eg):not(.flag-icon-eh):not(.flag-icon-er):not(.flag-icon-es):not(.flag-icon-et):not(.flag-icon-fi):not(.flag-icon-fj):not(.flag-icon-fk):not(.flag-icon-fm):not(.flag-icon-fo):not(.flag-icon-fr):not(.flag-icon-ga):not(.flag-icon-gb):not(.flag-icon-gd):not(.flag-icon-ge):not(.flag-icon-gf):not(.flag-icon-gg):not(.flag-icon-gh):not(.flag-icon-gi):not(.flag-icon-gl):not(.flag-icon-gm):not(.flag-icon-gn):not(.flag-icon-gp):not(.flag-icon-gq):not(.flag-icon-gr):not(.flag-icon-gs):not(.flag-icon-gt):not(.flag-icon-gu):not(.flag-icon-gw):not(.flag-icon-gy):not(.flag-icon-hk):not(.flag-icon-hm):not(.flag-icon-hn):not(.flag-icon-hr):not(.flag-icon-ht):not(.flag-icon-hu):not(.flag-icon-id):not(.flag-icon-ie):not(.flag-icon-il):not(.flag-icon-im):not(.flag-icon-in):not(.flag-icon-io):not(.flag-icon-iq):not(.flag-icon-ir):not(.flag-icon-is):not(.flag-icon-it):not(.flag-icon-je):not(.flag-icon-jm):not(.flag-icon-jo):not(.flag-icon-jp):not(.flag-icon-ke):not(.flag-icon-kg):not(.flag-icon-kh):not(.flag-icon-ki):not(.flag-icon-km):not(.flag-icon-kn):not(.flag-icon-kp):not(.flag-icon-kr):not(.flag-icon-kw):not(.flag-icon-ky):not(.flag-icon-kz):not(.flag-icon-la):not(.flag-icon-lb):not(.flag-icon-lc):not(.flag-icon-li):not(.flag-icon-lk):not(.flag-icon-lr):not(.flag-icon-ls):not(.flag-icon-lt):not(.flag-icon-lu):not(.flag-icon-lv):not(.flag-icon-ly):not(.flag-icon-ma):not(.flag-icon-mc):not(.flag-icon-md):not(.flag-icon-me):not(.flag-icon-mf):not(.flag-icon-mg):not(.flag-icon-mh):not(.flag-icon-mk):not(.flag-icon-ml):not(.flag-icon-mm):not(.flag-icon-mn):not(.flag-icon-mo):not(.flag-icon-mp):not(.flag-icon-mq):not(.flag-icon-mr):not(.flag-icon-ms):not(.flag-icon-mt):not(.flag-icon-mu):not(.flag-icon-mv):not(.flag-icon-mw):not(.flag-icon-mx):not(.flag-icon-my):not(.flag-icon-mz):not(.flag-icon-na):not(.flag-icon-nc):not(.flag-icon-ne):not(.flag-icon-nf):not(.flag-icon-ng):not(.flag-icon-ni):not(.flag-icon-nl):not(.flag-icon-no):not(.flag-icon-np):not(.flag-icon-nr):not(.flag-icon-nu):not(.flag-icon-nz):not(.flag-icon-om):not(.flag-icon-pa):not(.flag-icon-pe):not(.flag-icon-pf):not(.flag-icon-pg):not(.flag-icon-ph):not(.flag-icon-pk):not(.flag-icon-pl):not(.flag-icon-pm):not(.flag-icon-pn):not(.flag-icon-pr):not(.flag-icon-ps):not(.flag-icon-pt):not(.flag-icon-pw):not(.flag-icon-py):not(.flag-icon-qa):not(.flag-icon-re):not(.flag-icon-ro):not(.flag-icon-rs):not(.flag-icon-ru):not(.flag-icon-rw):not(.flag-icon-sa):not(.flag-icon-sb):not(.flag-icon-sc):not(.flag-icon-sd):not(.flag-icon-se):not(.flag-icon-sg):not(.flag-icon-sh):not(.flag-icon-si):not(.flag-icon-sj):not(.flag-icon-sk):not(.flag-icon-sl):not(.flag-icon-sm):not(.flag-icon-sn):not(.flag-icon-so):not(.flag-icon-sr):not(.flag-icon-ss):not(.flag-icon-st):not(.flag-icon-sv):not(.flag-icon-sx):not(.flag-icon-sy):not(.flag-icon-sz):not(.flag-icon-tc):not(.flag-icon-td):not(.flag-icon-tf):not(.flag-icon-tg):not(.flag-icon-th):not(.flag-icon-tj):not(.flag-icon-tk):not(.flag-icon-tl):not(.flag-icon-tm):not(.flag-icon-tn):not(.flag-icon-to):not(.flag-icon-tr):not(.flag-icon-tt):not(.flag-icon-tv):not(.flag-icon-tw):not(.flag-icon-tz):not(.flag-icon-ua):not(.flag-icon-ug):not(.flag-icon-um):not(.flag-icon-us):not(.flag-icon-uy):not(.flag-icon-uz):not(.flag-icon-va):not(.flag-icon-vc):not(.flag-icon-ve):not(.flag-icon-vg):not(.flag-icon-vi):not(.flag-icon-vn):not(.flag-icon-vu):not(.flag-icon-wf):not(.flag-icon-ws):not(.flag-icon-ye):not(.flag-icon-yt):not(.flag-icon-za):not(.flag-icon-zm):not(.flag-icon-zw) 
 {display: none !important;}
-      
-/* Includes New Flag */ 
+/* // Includes New Flag */
 
-  .flag-icon:not(.flag-icon-pk):not(.flag-icon-us):not(.flag-icon-gb):not(.flag-icon-sa)  
- {
-     display:none !important;
  
-  }
-      /* // Includes New Flag */ 
+/* Includes New Tags To Available */
 
-   .mdi-check-circle:not(.va-varified)   
- {
-     display:none !important;
- 
-  }
- 
- 
-  ul.includes li:not(.time-hbshow) {
-        display: none !important;}
-        
-  /*   ul.includes li:not(.time-hb) {
-        display: none !important;}
-    */
-      /* Includes New Tags To Available */ 
-
-     ul.available li:not(.Time-hire):not(.Site-hire):not(.Contract-hire) {
-        display: none !important;
-        height: 15px !important;
-         
-         
-     }
-      /* Includes New Tags To Available */ 
-
-    
- 
-    
-    .tags {list-style-type: none; margin:0px; padding:0px;}
-
-.card 
-{margin-bottom:25px !important;}
-
-    
-    h4 a {
-color:black;
-
-    }
-
-    .rounded-circle
-    {
-  border:1px solid #d3d3d3;  
-
-    }
-
-    /* custom css */
-    .hidesource
-    {display:none !important;}
+ul.available li:not(.Time-hire):not(.Site-hire):not(.Contract-hire):not(.Temporary-hire):not(.Internship-hire):not(.Volunteer-hire):not(.Student-hire) {
+    display: none !important;
+    height: 15px !important;
+}
 
 
-   .mdi-check-circle:not(.mdi-star-circle):not(.va-varified)      
- {
-     display:none !important;
- 
-  }
-  
-  /* Exclude New Tags From Skill(s) */ 
+/* Includes New Tags To Available */
+
+.tags {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    margin-bottom: 25px !important;
+}
+
+h4 a {
+    color: black;
+}
+
+.rounded-circle {
+    border: 1px solid #d3d3d3;
+}
 
 
-   ul.skill .Time-skill, ul.skill li.faisalabad-skill, ul.skill .Pakistan-skill, ul.skill .mdi-whatsapp-skill, ul.skill .star-skill, ul.skill .featured-skill, ul.skill .pk-skill,
-ul.skill .mdi-facebook-skill, ul.skill .On-Site, ul.skill .mdi-web, ul.skill .us-skill,ul.skill .York-skill, ul.skill .Jeddah-skill, ul.skill .sa-skill, ul.skill .Contract-skill, ul.skill .varified-skill, ul.skill .Hafizabad-skill, ul.skill .Site-skill, ul.skill .mdi-linkedin-skill
-{display:none !important;}
-  
-   /* // Exclude New Tags From Skill(s) */ 
+/* custom css */
+
+.hidesource {
+    display: none !important;
+}
+
+.mdi-check-circle:not(.mdi-star-circle):not(.va-varified) {
+    display: none !important;
+}
 
 
-  .popover-body {padding:0px !important;
-      
-      margin:0px 8px 0px 0px !important;
-      
-  }
-      /* ADD New Location */ 
+/* /////////////////////////////// */ 
+ /* Skill Tag
+/* /////////////////////////////// */ 
+/* Exclude New Available Tag From Skill(s) */
 
-    ul.location li:not(.faisalabad-location):not(.Lahore-location):not(.multan-location):not(.Jeddah-location):not(.York-location):not(.Hafizabad-location)   
-    
-    {
-        display: none !important;}
+ul.skill .Time-skill,
+ul.skill .Contract-skill,
+ul.skill .Temporary-skill,
+ul.skill .Internship-skill,
+ul.skill .Volunteer-skill,
+ul.skill .Student-skill,
+/* Exclude New City From Skill(s) */
+ul.skill .York-skill,
+ul.skill .Jeddah-skill,
+ul.skill .Site-skill,
+ul.skill li.faisalabad-skill,
+ /* Add new Social MDI Icon Exclude from Skills */ 
+ ul.skill .mdi-instagram-skill,
+ ul.skill .mdi-facebook-skill,
+ ul.skill .mdi-twitter-skill,
+ ul.skill .mdi-star-skill,
+ ul.skill .mdi-web-skill,
+ ul.skill .mdi-linkedin-skill,
+ul.skill .mdi-varified-skill,
+ul.skill .featured-skill,
+ul.skill .mdi-whatsapp-skill,
+ /* All Countries Exclude from Skills */ 
+ul.skill .ad-skill, 
+ul.skill .ae-skill, 
+ul.skill .af-skill,  
+ul.skill .ag-skill,  
+ul.skill .ai-skill,   
+ul.skill .al-skill,  
+ul.skill .am-skill, 
+ul.skill .ao-skill,  
+ul.skill .aq-skill, 
+ul.skill .ar-skill,  
+ul.skill .as-skill,  
+ul.skill .at-skill,  
+ul.skill .au-skill,  
+ul.skill .aw-skill,  
+ul.skill .ax-skill,  
+ul.skill .az-skill,  
+ul.skill .ba-skill,  
+ul.skill .bb-skill,  
+ul.skill .bd-skill,  
+ul.skill .be-skill, 
+ul.skill .bf-skill,  
+ul.skill .bg-skill,  
+ul.skill .bh-skill,  
+ul.skill .bi-skill,  
+ul.skill .bj-skill,  
+ul.skill .bl-skill,  
+ul.skill .bm-skill,  
+ul.skill .bn-skill,  
+ul.skill .bo-skill,  
+ul.skill .bq-skill, 
+ul.skill .br-skill, 
+ul.skill .bs-skill,  
+ul.skill .bt-skill,  
+ul.skill .bv-skill, 
+ul.skill .bw-skill,  
+ul.skill .by-skill, 
+ul.skill .bz-skill,  
+ul.skill .ca-skill,  
+ul.skill .cc-skill,  
+ul.skill .cd-skill, 
+ul.skill .cf-skill,  
+ul.skill .cg-skill,  
+ul.skill .ch-skill,  
+ul.skill .ci-skill, 
+ul.skill .ck-skill,  
+ul.skill .cl-skill,  
+ul.skill .cm-skill,  
+ul.skill .cn-skill,  
+ul.skill .co-skill,  
+ul.skill .cr-skill, 
+ul.skill .cu-skill, 
+ul.skill .cv-skill,  
+ul.skill .cw-skill,  
+ul.skill .cx-skill,  
+ul.skill .cy-skill,  
+ul.skill .cz-skill,  
+ul.skill .de-skill,  
+ul.skill .dj-skill, 
+ul.skill .dk-skill,  
+ul.skill .dm-skill, 
+ul.skill .do-skill,  
+ul.skill .dz-skill,  
+ul.skill .ec-skill,  
+ul.skill .ee-skill, 
+ul.skill .eg-skill,  
+ul.skill .eh-skill, 
+ul.skill .er-skill,  
+ul.skill .es-skill,  
+ul.skill .et-skill,  
+ul.skill .fi-skill, 
+ul.skill .fj-skill, 
+ul.skill .fk-skill,  
+ul.skill .fm-skill, 
+ul.skill .fo-skill, 
+ul.skill .fr-skill,  
+ul.skill .ga-skill,  
+ul.skill .gb-skill,  
+ul.skill .gd-skill,  
+ul.skill .ge-skill,  
+ul.skill .gf-skill, 
+ul.skill .gg-skill,  
+ul.skill .gh-skill,  
+ul.skill .gi-skill,  
+ul.skill .gl-skill,  
+ul.skill .gm-skill,  
+ul.skill .gn-skill,  
+ul.skill .gp-skill,  
+ul.skill .gq-skill,  
+ul.skill .gr-skill,  
+ul.skill .gs-skill, 
+ul.skill .gt-skill, 
+ul.skill .gu-skill,  
+ul.skill .gw-skill,  
+ul.skill .gy-skill,  
+ul.skill .hk-skill,  
+ul.skill .hm-skill,  
+ul.skill .hn-skill,  
+ul.skill .hr-skill,  
+ul.skill .ht-skill,  
+ul.skill .hu-skill,  
+ul.skill .id-skill,  
+ul.skill .ie-skill,  
+ul.skill .il-skill,  
+ul.skill .im-skill,  
+ul.skill .in-skill,  
+ul.skill .io-skill,  
+ul.skill .iq-skill,  
+ul.skill .ir-skill, 
+ul.skill .is-skill, 
+ul.skill .it-skill,  
+ul.skill .je-skill,  
+ul.skill .jm-skill,  
+ul.skill .jo-skill,  
+ul.skill .jp-skill,  
+ul.skill .ke-skill,  
+ul.skill .kg-skill,  
+ul.skill .kh-skill,  
+ul.skill .ki-skill,  
+ul.skill .km-skill, 
+ul.skill .kn-skill,  
+ul.skill .kp-skill,  
+ul.skill .kr-skill,  
+ul.skill .kw-skill,  
+ul.skill .ky-skill,  
+ul.skill .kz-skill,  
+ul.skill .la-skill, 
+ul.skill .lb-skill,  
+ul.skill .lc-skill, 
+ul.skill .li-skill,   
+ul.skill .lk-skill,  
+ul.skill .lr-skill, 
+ul.skill .ls-skill,  
+ul.skill .lt-skill,  
+ul.skill .lu-skill,  
+ul.skill .lv-skill,  
+ul.skill .ly-skill,   
+ul.skill .ma-skill,  
+ul.skill .mc-skill,   
+ul.skill .md-skill,  
+ul.skill .me-skill, 
+ul.skill .mf-skill,  
+ul.skill .mg-skill,  
+ul.skill .mh-skill,  
+ul.skill .mk-skill,  
+ul.skill .ml-skill,  
+ul.skill .mm-skill,    
+ul.skill .mn-skill,  
+ul.skill .mo-skill, 
+ul.skill .mp-skill,  
+ul.skill .mq-skill,  
+ul.skill .mr-skill,  
+ul.skill .ms-skill,   
+ul.skill .mt-skill,  
+ul.skill .mu-skill,  
+ul.skill .mv-skill,  
+ul.skill .mw-skill,  
+ul.skill .mx-skill,   
+ul.skill .my-skill,  
+ul.skill .mz-skill,  
+ul.skill .na-skill,  
+ul.skill .nc-skill, 
+ul.skill .ne-skill,  
+ul.skill .nf-skill,  
+ul.skill .ng-skill,  
+ul.skill .ni-skill,   
+ul.skill .nl-skill,  
+ul.skill .no-skill,  
+ul.skill .np-skill,  
+ul.skill .nr-skill,  
+ul.skill .nu-skill,  
+ul.skill .nz-skill,  
+ul.skill .om-skill,  
+ul.skill .pa-skill,  
+ul.skill .pe-skill,  
+ul.skill .pf-skill,  
+ul.skill .pg-skill,   
+ul.skill .ph-skill, 
+ul.skill .pk-skill,  
+ul.skill .pl-skill,  
+ul.skill .pm-skill,  
+ul.skill .pn-skill,  
+ul.skill .pr-skill,  
+ul.skill .ps-skill,  
+ul.skill .pt-skill,  
+ul.skill .pw-skill,  
+ul.skill .py-skill,  
+ul.skill .qa-skill,  
+ul.skill .re-skill,  
+ul.skill .ro-skill,  
+ul.skill .rs-skill,  
+ul.skill .ru-skill,  
+ul.skill .rw-skill,  
+ul.skill .sa-skill,  
+ul.skill .sb-skill,  
+ul.skill .sc-skill,   
+ul.skill .sd-skill,  
+ul.skill .se-skill,  
+ul.skill .sg-skill,  
+ul.skill .sh-skill,  
+ul.skill .si-skill,  
+ul.skill .sj-skill,  
+ul.skill .sk-skill,  
+ul.skill .sl-skill,  
+ul.skill .sm-skill,  
+ul.skill .sn-skill,  
+ul.skill .so-skill,  
+ul.skill .sr-skill,  
+ul.skill .ss-skill,  
+ul.skill .st-skill,  
+ul.skill .sv-skill,  
+ul.skill .sx-skill,  
+ul.skill .sy-skill,  
+ul.skill .sz-skill,  
+ul.skill .tc-skill,  
+ul.skill .td-skill,  
+ul.skill .tf-skill, 
+ul.skill .tg-skill,  
+ul.skill .th-skill,  
+ul.skill .tj-skill, 
+ul.skill .tk-skill,  
+ul.skill .tl-skill,  
+ul.skill .tm-skill,  
+ul.skill .tn-skill,  
+ul.skill .to-skill,  
+ul.skill .tr-skill,  
+ul.skill .tt-skill,  
+ul.skill .tv-skill,  
+ul.skill .tw-skill,  
+ul.skill .tz-skill,  
+ul.skill .ua-skill,  
+ul.skill .ug-skill,  
+ul.skill .um-skill,  
+ul.skill .us-skill,  
+ul.skill .uy-skill,  
+ul.skill .uz-skill,  
+ul.skill .va-skill,  
+ul.skill .vc-skill,  
+ul.skill .ve-skill,  
+ul.skill .vg-skill,  
+ul.skill .vi-skill,  
+ul.skill .vn-skill,  
+ul.skill .vu-skill,  
+ul.skill .wf-skill,  
+ul.skill .ws-skill, 
+ul.skill .ye-skill,  
+ul.skill .yt-skill, 
+ul.skill .za-skill,  
+ul.skill .zm-skill,  
+ul.skill .zw-skill,  
 
+
+
+{
+    display: none !important;
+}
+
+
+/* // Exclude New Tags From Skill(s) */
+
+.popover-body {
+    padding: 0px !important;
+    margin: 0px 8px 0px 0px !important;
+}
+
+
+/* ADD New Location */
+
+ul.location li:not(.faisalabad-location):not(.Lahore-location):not(.multan-location):not(.Jeddah-location):not(.York-location):not(.Hafizabad-location) {
+    display: none !important;
+}
