@@ -108,12 +108,13 @@ ul.skill .Jeddah-skill,
 ul.skill .Site-skill,
 ul.skill li.faisalabad-skill,
  /* Add new Social MDI Icon Exclude from Skills */ 
- ul.skill .mdi-instagram-skill,
- ul.skill .mdi-facebook-skill,
- ul.skill .mdi-twitter-skill,
- ul.skill .mdi-star-skill,
- ul.skill .mdi-web-skill,
- ul.skill .mdi-linkedin-skill,
+ul.skill .mdi-instagram-skill,
+ul.skill .mdi-facebook-skill,
+ul.skill .mdi-twitter-skill,
+ul.skill .mdi-star-skill,
+ul.skill .star-skill,
+ul.skill .mdi-web-skill,
+ul.skill .mdi-linkedin-skill,
 ul.skill .mdi-varified-skill,
 ul.skill .featured-skill,
 ul.skill .mdi-whatsapp-skill,
@@ -366,7 +367,7 @@ ul.skill .ye-skill,
 ul.skill .yt-skill, 
 ul.skill .za-skill,  
 ul.skill .zm-skill,  
-ul.skill .zw-skill,  
+ul.skill .zw-skill  
 
 
 
