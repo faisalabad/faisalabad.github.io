@@ -389,3 +389,7 @@ ul.skill .zw-skill
 ul.location li:not(.faisalabad-location):not(.Lahore-location):not(.multan-location):not(.Jeddah-location):not(.York-location):not(.Hafizabad-location) {
     display: none !important;
 }
+
+.form-control::-webkit-input-placeholder {
+  color: #333333;
+}
