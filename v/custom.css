@@ -95,7 +95,8 @@ h4 a {
  /* Skill Tag
 /* /////////////////////////////// */ 
 /* Exclude New Available Tag From Skill(s) */
-ul.skill .varified-skill,
+/* ul.skill .varified-skill,*/
+ul.skill .verified-skill,
 ul.skill .Time-skill,
 ul.skill .Contract-skill,
 ul.skill .Temporary-skill,
