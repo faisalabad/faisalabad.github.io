@@ -86,7 +86,7 @@ h4 a {
     display: none !important;
 }
 
-.mdi-check-circle:not(.mdi-star-circle):not(.va-varified) {
+.mdi-check-circle:not(.mdi-star-circle):not(.va-verified) {
     display: none !important;
 }
 
@@ -118,7 +118,7 @@ ul.skill .mdi-star-skill,
 ul.skill .star-skill,
 ul.skill .mdi-web-skill,
 ul.skill .mdi-linkedin-skill,
-ul.skill .mdi-varified-skill,
+ul.skill .mdi-verified-skill,
 ul.skill .featured-skill,
 ul.skill .mdi-whatsapp-skill,
  /* All Countries Exclude from Skills */ 
