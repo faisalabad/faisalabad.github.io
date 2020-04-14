@@ -105,6 +105,8 @@ ul.skill .Volunteer-skill,
 ul.skill .Student-skill,
 /* Exclude New City From Skill(s) */
 ul.skill .York-skill,
+ul.skill .Karachi-skill,
+ul.skill .Faisalabad-skill,
 ul.skill .Chiniot-skill,
 ul.skill .Haripur-skill,
 ul.skill .Hafizabad-skill,
@@ -393,7 +395,7 @@ ul.skill .zw-skill
 
 /* ADD New Location */
 
-ul.location li:not(.faisalabad-location):not(.Lahore-location):not(.Chiniot-location):not(.Haripur-location):not(.Dubai-location):not(.Islamabad-location):not(.multan-location):not(.Jeddah-location):not(.York-location):not(.Hafizabad-location) {
+ul.location li:not(.faisalabad-location):not(.Lahore-location):not(.Karachi-location):not(.Faisalabad-location):not(.Chiniot-location):not(.Haripur-location):not(.Dubai-location):not(.Islamabad-location):not(.multan-location):not(.Jeddah-location):not(.York-location):not(.Hafizabad-location) {
     display: none !important;
 }
 
