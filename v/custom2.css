@@ -146,3 +146,77 @@ ul.location li:nth-last-child(1) { display: none; }
 {
     display: none !important;
 } */
+
+
+
+
+ul.location li:nth-child(5) { display: none; }
+ul.location li:nth-child(6) { display: none; }
+ul.location li:nth-child(7) { display: none; }
+ul.location li:nth-child(8) { display: none; }
+ul.location li:nth-child(9) { display: none; }
+ul.location li:nth-child(10) { display: none; }
+ul.location li:nth-child(11) { display: none; }
+ul.location li:nth-child(12) { display: none; }
+ul.location li:nth-child(13) { display: none; }
+ul.location li:nth-child(14) { display: none; }
+ul.location li:nth-child(15) { display: none; }
+
+{
+    display: none !important;
+}
+ 
+ul.location .verified-location,
+ul.location .Time-location,
+ul.location .Contract-location,
+ul.location .Temporary-location,
+ul.location .Internship-location,
+ul.location .Volunteer-location,
+ul.location .Student-location,
+ul.location .Contract-location
+
+{display:none;}
+
+ul.location .mdi-instagram-location,
+ul.location .mdi-facebook-location,
+ul.location .mdi-twitter-location,
+ul.location .mdi-star-location,
+ul.location .star-location,
+ul.location .mdi-web-location,
+ul.location .mdi-linkedin-location,
+ul.location .mdi-verified-location,
+ul.location .featured-location,
+ul.location .mdi-phone-location,
+ul.location .mdi-whatsapp-location,
+ul.location .mdi-email-location
+{ display: none !important;}
+
+
+ul.location .mdi-instagram,
+ul.location .mdi-facebook,
+ul.location .mdi-twitter,
+ul.location .mdi-star,
+ul.location .star-location,
+ul.location .mdi-web,
+ul.location .mdi-linkedin,
+ul.location .mdi-verified,
+ul.location .featured,
+ul.location .mdi-phone,
+ul.location .mdi-whatsapp,
+ul.location .mdi-email
+{ display: none !important;}
+
+ul.skill .mdi-instagram,
+ul.skill .mdi-facebook,
+ul.skill .mdi-twitter,
+ul.skill .mdi-star,
+ul.skill .star-location,
+ul.skill .mdi-web,
+ul.skill .mdi-linkedin,
+ul.skill .mdi-verified,
+ul.skill .featured,
+ul.skill .mdi-phone,
+ul.skill .mdi-whatsapp,
+ul.skill .mdi-email
+{ display: none !important;}
+ 
