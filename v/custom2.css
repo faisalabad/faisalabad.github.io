@@ -133,7 +133,7 @@ ul.skill li:nth-last-child(7) { display: none; }
 ul.skill li:nth-last-child(6) { display: none; }
 
 
-ul.location li:nth-last-child(9) { display: none; }
+/* cul.location li:nth-last-child(9) { display: none; }
 ul.location li:nth-last-child(8) { display: none; }
 ul.location li:nth-last-child(7) { display: none; }
 ul.location li:nth-last-child(6) { display: none; }
@@ -145,4 +145,4 @@ ul.location li:nth-last-child(1) { display: none; }
 
 {
     display: none !important;
-}
+} */
