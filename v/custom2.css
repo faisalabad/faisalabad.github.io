@@ -1,0 +1,154 @@
+.us-flag {
+    visibility: hidden !important;
+}
+
+.loc-us {
+    visibility: visible !important;
+}
+
+u {
+    color: Teal !important;
+}
+
+.bg-warning h4,
+.bg-warning {
+    color: #000000 !important;
+}
+
+.bg-warning small {
+    color: maroon !important;
+}
+
+h4 a {
+    color: black;
+}
+
+.rounded-circle {
+    border: 1px solid black;
+}
+
+li {
+    list-style-type: none !important;
+}
+
+.read_more_container {
+    display: none !important;
+}
+
+iframe {
+    height: 100vh !important;
+}
+
+.prosum {
+    min-height: 125px !important;
+}
+
+.Base-hb {
+    display: none !important;
+}
+
+/* Includes New Tags To Available */
+
+ul.available li:not(.Time-hire):not(.Site-hire):not(.Contract-hire):not(.Temporary-hire):not(.Internship-hire):not(.Volunteer-hire):not(.Student-hire) {
+    display: none !important;
+    height: 15px !important;
+}
+
+/* Includes New Tags To Available */
+
+.tags {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    margin-bottom: 25px !important;
+}
+
+h4 a {
+    color: black;
+}
+
+.rounded-circle {
+    border: 1px solid #d3d3d3;
+}
+
+
+/* custom css */
+
+.hidesource {
+    display: none !important;
+}
+
+.mdi-check-circle:not(.mdi-star-circle):not(.va-verified) {
+    display: none !important;
+}
+/* Add new Availibility Option */
+
+ul.skill .verified-skill,
+ul.skill .Time-skill,
+ul.skill .Contract-skill,
+ul.skill .Temporary-skill,
+ul.skill .Internship-skill,
+ul.skill .Volunteer-skill,
+ul.skill .Student-skill,
+
+/* Add new Social MDI Icon Exclude from Skills */
+
+ul.skill .mdi-instagram-skill,
+ul.skill .mdi-facebook-skill,
+ul.skill .mdi-twitter-skill,
+ul.skill .mdi-star-skill,
+ul.skill .star-skill,
+ul.skill .mdi-web-skill,
+ul.skill .mdi-linkedin-skill,
+ul.skill .mdi-verified-skill,
+ul.skill .featured-skill,
+ul.skill .mdi-phone-skill,
+ul.skill .mdi-whatsapp-skill,
+ul.skill .mdi-email-skill,
+
+{
+    display: none !important;
+}
+.popover-body {
+    padding: 0px !important;
+    margin: 0px 8px 0px 0px !important;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #333333;
+}
+
+
+/* Limit Skills and Location */
+
+ul.skill li:nth-last-child(14) { display: none; }
+ul.skill li:nth-last-child(13) { display: none; }
+ul.skill li:nth-last-child(12) { display: none; }
+ul.skill li:nth-last-child(11) { display: none; }
+ul.skill li:nth-last-child(10) { display: none; }
+ul.skill li:nth-last-child(9) { display: none; }
+ul.skill li:nth-last-child(8) { display: none; }
+ul.skill li:nth-last-child(7) { display: none; }
+ul.skill li:nth-last-child(6) { display: none; }
+
+
+ul.location5 li:nth-last-child(9) { display: none; }
+ul.location5 li:nth-last-child(8) { display: none; }
+ul.location5 li:nth-last-child(7) { display: none; }
+ul.location5 li:nth-last-child(6) { display: none; }
+ul.location5 li:nth-last-child(5) { display: none; }
+ul.location5 li:nth-last-child(4) { display: none; }
+ul.location5 li:nth-last-child(3) { display: none; }
+ul.location5 li:nth-last-child(2) { display: none; }
+ul.location5 li:nth-last-child(1) { display: none; }
+
+ul.location5 .au-location5  
+
+
+
+{
+    display: none !important;
+}
