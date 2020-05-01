@@ -135,19 +135,15 @@ ul.skill li:nth-last-child(7) { display: none; }
 ul.skill li:nth-last-child(6) { display: none; }
 
 
-ul.location5 li:nth-last-child(9) { display: none; }
-ul.location5 li:nth-last-child(8) { display: none; }
-ul.location5 li:nth-last-child(7) { display: none; }
-ul.location5 li:nth-last-child(6) { display: none; }
-ul.location5 li:nth-last-child(5) { display: none; }
-ul.location5 li:nth-last-child(4) { display: none; }
-ul.location5 li:nth-last-child(3) { display: none; }
-ul.location5 li:nth-last-child(2) { display: none; }
-ul.location5 li:nth-last-child(1) { display: none; }
-
-ul.location5 .au-location5  
-
-
+ul.location li:nth-last-child(9) { display: none; }
+ul.location li:nth-last-child(8) { display: none; }
+ul.location li:nth-last-child(7) { display: none; }
+ul.location li:nth-last-child(6) { display: none; }
+ul.location li:nth-last-child(5) { display: none; }
+ul.location li:nth-last-child(4) { display: none; }
+ul.location li:nth-last-child(3) { display: none; }
+ul.location li:nth-last-child(2) { display: none; }
+ul.location li:nth-last-child(1) { display: none; }
 
 {
     display: none !important;
