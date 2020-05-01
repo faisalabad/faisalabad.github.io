@@ -107,11 +107,9 @@ ul.skill .mdi-verified-skill,
 ul.skill .featured-skill,
 ul.skill .mdi-phone-skill,
 ul.skill .mdi-whatsapp-skill,
-ul.skill .mdi-email-skill,
+ul.skill .mdi-email-skill
+{ display: none !important;}
 
-{
-    display: none !important;
-}
 .popover-body {
     padding: 0px !important;
     margin: 0px 8px 0px 0px !important;
